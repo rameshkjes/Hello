@@ -1,0 +1,13 @@
+git status
+git branch
+git remote -v
+git push origin master
+git remove remove origin
+git remote add file name
+git clone SSH-KEY
+git branch
+git remote
+nano
+git commit -m // For short message 
+git commit //For long message
+
